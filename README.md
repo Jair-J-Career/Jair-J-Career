@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm [Jair Lopez] 👋
 
-<!--
-**Jair-J-Career/Jair-J-Career** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software engineer and data analyst with a dual focus in Computer Science and Linguistics from the University of Illinois Chicago. I build full-stack web applications, architect AI-driven backends, and extract actionable insights from messy data.
 
-Here are some ideas to get you started:
+I bridge the gap between complex machine learning models and clean, user-friendly products. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Currently Working On
+* Building full-stack applications integrating modern frontends with Python-heavy AI backends.
+* Analyzing large-scale public datasets to build predictive models and interactive dashboards.
+* Exploring cross-lingual Natural Language Processing and LLM fine-tuning.
+
+### 🛠️ Tech Stack & Tools
+* **Languages:** Python, JavaScript, SQL, HTML/CSS, Spanish (Fluent)
+* **Frontend:** React, Vite, Tailwind CSS
+* **Backend & AI:** FastAPI, PyTorch, LangChain, Hugging Face
+* **Data Science:** Pandas, NumPy, Scikit-Learn, Jupyter Notebooks
+* **DevOps & Tools:** Git, Docker, PostCSS
+
+### 📫 Let's Connect
+* **LinkedIn:** []()
+* **Email:** []()
+* **Portfolio:** []
