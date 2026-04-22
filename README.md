@@ -18,5 +18,5 @@ I bridge the gap between complex machine learning models and clean, user-friendl
 
 ### 📫 Let's Connect
 * **LinkedIn:** []()
-* **Email:** []()
+* **Email:** [jairworkuseroute@gmail.com]()
 * **Portfolio:** []
